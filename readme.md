@@ -1,7 +1,8 @@
 # 切图与身份证识别
 ## 0.环境
 * (1). 主要依靠python3的pillow与cv2来完成,通过PYQT5写的简陋的gui界面
-* (2). 识别文字方面,依靠谷歌的 tesseract-OCR来识别,通过pytesseract来调用,注意要记得装中文库,否则中文识别不出来
+* (2). 识别文字方面,依靠谷歌的 tesseract-OCR来识别,通过pytesseract来调用
+* 注意,要记得给tesseract-OCR装中文依赖chi_sim,否则中文识别不出来,网上很多教程
 
 ## 1.目录结构
 ```
@@ -34,3 +35,12 @@ iDcardDistinguish
 ![avatar](https://github.com/JianhaoXie/iDcardDistinguish/blob/master/image/Card6_YN.jpg)
 * 切图后\
 ![avatar](https://github.com/JianhaoXie/iDcardDistinguish/blob/master/image/dest.jpg)
+
+
+## 3. 识别
+* 起始gui结构\
+![avatar](https://github.com/JianhaoXie/iDcardDistinguish/blob/master/image/gui1.png)
+* 起始gui结构\
+![avatar](https://github.com/JianhaoXie/iDcardDistinguish/blob/master/image/gui2.png)
+* 起始gui结构\
+![avatar](https://github.com/JianhaoXie/iDcardDistinguish/blob/master/image/gui3.png)
