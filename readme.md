@@ -31,6 +31,6 @@ iDcardDistinguish
 ```
 ## 2. 切图
 * 原图\
-![avatar](../image/Card6_YN.png)
+![avatar](https://github.com/JianhaoXie/iDcardDistinguish/blob/master/image/Card6_YN.jpg)
 * 切图后\
-![avatar](../image/dest.png)# iDcardDistinguish
+![avatar](https://github.com/JianhaoXie/iDcardDistinguish/blob/master/image/dest.png)
